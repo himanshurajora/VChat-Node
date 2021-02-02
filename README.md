@@ -1,2 +1,2 @@
 # VChat-Node
-A simple chatting app
+A Chatting Application In Node js
